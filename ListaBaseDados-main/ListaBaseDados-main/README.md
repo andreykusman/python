@@ -8,5 +8,3 @@ filtragens:
 em cada ano;
  Filtrar os estados com mais acidentes em cada ano;
  Quantidade de acidentes com vitimas fatais em diferentes climas.
-
-José Vitor, Andrey Kusman, Yan Baldissera, Jonathan Pepi
